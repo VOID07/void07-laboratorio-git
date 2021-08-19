@@ -10,3 +10,5 @@ namespace api_gateway
         }
     }
 }
+
+// Copyright

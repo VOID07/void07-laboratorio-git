@@ -1,0 +1,15 @@
+# Owner global
+* @VOID07
+
+# Se utiliza el formato /<folder>/ para coincidir con los archivos dentro de los directorios con ese nombre en la raíz del directorio
+# Owner de api-gateway
+/api-gateway/ @dago-github-user @VOID07
+
+# Owner de frontend
+/frontend/ @dago-github-user @VOID07
+
+# Owner de java-rest-api
+/java-rest-api/ @dago-github-user @VOID07
+
+# Owner de ml-library
+/ml-library/ @dago-github-user @VOID07
